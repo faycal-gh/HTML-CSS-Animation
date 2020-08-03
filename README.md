@@ -1,4 +1,4 @@
 # HTML-CSS-Animation
 Simple HTML CSS Animation
 
-![Screenshot](OUTPUT.png)
+![alt text](https://github.com/[faycal-gh]/[HTML-CSS-Animation]/blob/[master]/OUTPUT.png?raw=true)
